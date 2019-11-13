@@ -16,7 +16,7 @@ sections:
       * Extend Netlify CMS editor to support the insertion of a React component, allowing your editors to include things like buttons or testimonials
 
       * Swap default HTML elements in posts for React components, allowing for greater control
-      
+
       * All the usual Gatsby + MDX stuff
 
       <CallToAction url="https://github.com/renvrant/gatsby-mdx-netlify-cms-starter" align="center" bgColor="crimson">Check out the Repo</CallToAction>
